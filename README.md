@@ -11,4 +11,4 @@ To run locally:
 3) Run "npm start"
 4) Navigate to localhost:3000
 
-Notes: There are several minor features listed in the core tasks which are not included - namely the search function, sub-icons for video (4K, Android) etc, and subtle discrepancies between the design sketches and app.  These were not overlooked from a details persepective, but simply not implemented due to time constraints. 
+Notes: There are several minor features listed in the core tasks which are not included - namely the search function, sub-icons for video (4K, Android) etc, and subtle discrepancies between the design sketches and app.  These were not overlooked from a details persepective, but simply not implemented due to time constraints. The same applies for bonus animations and unit testing. However, if You like what you see so far, I'm open to the possibility of taking this app to the next level. 
